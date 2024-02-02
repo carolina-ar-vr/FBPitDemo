@@ -42,7 +42,7 @@
 
 ## APKs (for demoing)
 - You can either build and run _(steps above)_, or just sideload the following APKs to your Meta Quest device:
-  - [**Meta Quest 2** Pit Demo](https://drive.google.com/file/d/15cw1oHme_pvH8K8IlDcNfxgR5TxIs4Kf/view?usp=sharing)
+  - [**Meta Quest 2** Pit Demo](https://drive.google.com/file/d/15cw1oHme_pvH8K8IlDcNfxgR5TxIs4Kf/view?usp=drive_link)
   - [**Meta Quest 3** Pit Demo](_adding later)_
  
 ## Thank you!
