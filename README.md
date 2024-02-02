@@ -43,7 +43,7 @@
 ## APKs (for demoing)
 - You can either build and run _(steps above)_, or just sideload the following APKs to your Meta Quest device:
   - [**Meta Quest 2** Pit Demo](https://drive.google.com/file/d/15cw1oHme_pvH8K8IlDcNfxgR5TxIs4Kf/view?usp=sharing)
-  - [**Meta Quest 3**** Pit Demo](_adding later)_
+  - [**Meta Quest 3** Pit Demo](_adding later)_
  
 ## Thank you!
 - Special thanks to [Dr. Mary Whitton](https://cs.unc.edu/person/mary-c-whitton/), [Dr. Henry Fuchs](https://cs.unc.edu/person/henry-fuchs/), and [Jim Mahaney](https://cs.unc.edu/person/jim-mahaney/) for helping us make this demo possible in memory of Dr. Frederick (Fred) P. Brooks Jr. – the founder of UNC-Chapel Hill's Computer Science Department and friend to many.
