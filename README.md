@@ -52,5 +52,5 @@
 
 ## To-do
 - Add an 'enter' UI where users can pick either of the following options:
-  - Physical interfaces (wooden planks + walls) -> platforms cause height difference as users move throughout the scene -> map virtual space to room detection in Quest 3
-  - Entirely virtual (NO wooden planks + walls) -> floors are level (assuming users are experiencing this in an empty room with a flat ground)
+  - **Physical + virtual** interface (wooden planks + walls) -> platforms cause height difference as users move throughout the scene -> map virtual space to room detection in Quest 3
+  - **Entirely virtual** interface (NO wooden planks + walls) -> floors are level (assuming users are experiencing this in an empty room with a flat ground)
