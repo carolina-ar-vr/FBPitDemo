@@ -42,6 +42,6 @@
 
 
 ## Thank you!
-- Special thanks to Mary Whitton, Henry Fuchs, and Jim Mahaney for helping us make this demo possible in memory of Dr. Frederick (Fred) P. Brooks Jr. – the founder of UNC-Chapel Hill's Computer Science Department and friend to many.
+- Special thanks to Dr. Mary Whitton, Dr. Henry Fuchs, and Jim Mahaney for helping us make this demo possible in memory of Dr. Frederick (Fred) P. Brooks Jr. – the founder of UNC-Chapel Hill's Computer Science Department and friend to many.
 - Thank you to all our teammates (Ashley, Jonathan, and Ethan) for creating this!
 - And of course, thank you to our friends who dared to test out this immersive, exhilarating experience :)
