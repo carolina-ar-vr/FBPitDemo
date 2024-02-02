@@ -16,7 +16,7 @@
   c. Choose the local path where you want the repository to be cloned
   d. Qhen prompted with “_This repository uses Git LFS. to contribute to it, Git LFS must first be initialized. Would you like to do so now?_” → select **Initialize Git LFS**
 
-4. **Open the Project via Unity Hub**
+2. **Open the Project via Unity Hub**
    1. Open Unity Hub → **Add** → select the cloned repository (root directory) → **Add Project**
       1. _It’s recommended that all collaborators use the **same version of Unity**!_ See below for the version that we used.
 
