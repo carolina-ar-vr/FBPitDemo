@@ -1,6 +1,6 @@
 # FBPitDemo
  CARVR's Spring 2023 'Bottomless Pit' Demo, inspired by Dr. Brooks' UNC-Chapel Hill 'Bottomless Pit' Computer Science Department Demo.
- - _Updated in Spring 2024 for compatibility with the Quest 3_
+ - _Updated in Spring 2024 for compatibility with the Quest 3 + git LFS & MIT License_
  - _Presented at the 'Remembering Dr. Brooks' UNC Computer Science Department Event_
 
 ## Project Setup
