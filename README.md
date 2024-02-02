@@ -45,3 +45,8 @@
 - Special thanks to [Dr. Mary Whitton](https://cs.unc.edu/person/mary-c-whitton/), [Dr. Henry Fuchs](https://cs.unc.edu/person/henry-fuchs/), and [Jim Mahaney](https://cs.unc.edu/person/jim-mahaney/) for helping us make this demo possible in memory of Dr. Frederick (Fred) P. Brooks Jr. – the founder of UNC-Chapel Hill's Computer Science Department and friend to many.
 - Thank you to all our teammates (Ashley, Jonathan, and Ethan) for creating this!
 - And of course, thank you to our friends who dared to test out this immersive, exhilarating experience :)
+
+## To-do
+- Add an 'enter' UI where users can pick either of the following options:
+ - Physical interfaces (wooden planks + walls) -> platforms cause height difference as users move throughout the scene -> map virtual space to room detection in Quest 3
+ - Entirely virtual (NO wooden planks + walls) -> floors are level (assuming users are experiencing this in an empty room with a flat ground)
